@@ -17,4 +17,5 @@ Deslizando a página para baixo você irá encontrar uma lista com as **últimas
 
 ![ultimas atividades](https://res.cloudinary.com/danielrangel/image/upload/v1716746485/presence-docs/6fbc7e1c-5218-43df-b4fb-149829a64860.png)
 
-Veja mais em [Como ver minhas turmas](como-ver-minhas-turmas)
+Veja mais em [Como ver minhas turmas](/alunos/como-ver-minhas-turmas)
+
